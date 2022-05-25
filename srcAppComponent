@@ -1,1 +1,109 @@
 
+import { Component } from '@angular/core';
+// import { Url } from 'url';
+// import colors from '../app/data.json';
+
+
+interface Users 
+{
+  name: string;
+  id: number;
+  email:string;
+  gender:string;
+  img:string;
+  // code:[];
+}
+@Component({
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.scss']
+})
+export class AppComponent {
+  title = 'sfProject';
+
+  // users : Users[] = colors;
+
+  constructor(){
+    // console.log(this.users);
+    
+  }
+}
+
+import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+
+import { AppRoutingModule } from './app-routing.module';
+import { AppComponent } from './app.component';
+import { NewPageComponent } from './new-page/new-page.component';
+import { New2Component } from './new2/new2.component';
+// import {MatCardModule} from '@angular/material/card';
+
+@NgModule({
+  declarations: [
+    AppComponent,
+    NewPageComponent,
+    New2Component
+  ],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    // MatCardModule
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }
+
+import { NgModule } from '@angular/core';
+import { RouterModule, Routes } from '@angular/router';
+
+const routes: Routes = [];
+
+@NgModule({
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
+})
+export class AppRoutingModule { }
+
+declare module "*.json"{
+    const value : any;
+    export default value;
+}
+<!-- <app-new-page></app-new-page> -->
+<app-new2></app-new2>
+
+import { TestBed } from '@angular/core/testing';
+import { RouterTestingModule } from '@angular/router/testing';
+import { AppComponent } from './app.component';
+
+describe('AppComponent', () => {
+  beforeEach(async () => {
+    await TestBed.configureTestingModule({
+      imports: [
+        RouterTestingModule
+      ],
+      declarations: [
+        AppComponent
+      ],
+    }).compileComponents();
+  });
+
+  it('should create the app', () => {
+    const fixture = TestBed.createComponent(AppComponent);
+    const app = fixture.componentInstance;
+    expect(app).toBeTruthy();
+  });
+
+  it(`should have as title 'sfProject'`, () => {
+    const fixture = TestBed.createComponent(AppComponent);
+    const app = fixture.componentInstance;
+    expect(app.title).toEqual('sfProject');
+  });
+
+  it('should render title', () => {
+    const fixture = TestBed.createComponent(AppComponent);
+    fixture.detectChanges();
+    const compiled = fixture.nativeElement as HTMLElement;
+    expect(compiled.querySelector('.content span')?.textContent).toContain('sfProject app is running!');
+  });
+});
