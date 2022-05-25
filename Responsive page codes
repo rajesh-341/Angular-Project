@@ -1,1 +1,277 @@
+<div class="container-fluid">
+<div class="row">
+    <div class="col-lg-12">
+        <figure class="position-relative">
+            <img class="pn image-fluid" src="assets/img/g10.png">
+        </figure>
+        <figcaption style="top: 2rem;">
+            <nav class="navbar navbar-expand-lg navbar-light caption">
+                <img src="g19.jpg" class="image-fluid logo">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">                
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                    <div class="collapse navbar-collapse caption capt" style="background:transparent;" id="navbarSupportedContent">
+                        <ul class="navbar-nav ml-auto navText">
+                            <li class="nav-item active p-3">
+                                <a class="nav-link" href="#">Solutions</a>
+                            </li>
+                            <li class="nav-item active p-3">
+                                <a class="nav-link" href="#">Services</a>
+                            </li>
+                            <li class="nav-item active p-3">
+                                <a class="nav-link" href="#">Prices</a>
+                            </li>
+                            <li class="nav-item active p-3">
+                                <a class="nav-link" href="#">Resources</a>
+                            </li>
+                            <li class="nav-item active p-3">
+                                <a class="nav-link" href="#">Contact</a>
+                            </li>
+                            <li class="nav-item active p-3">
+                                <button class="border-white btn1" type="submit"><span class="getText">Get Started</span></button>
+                            </li>
+                        </ul>
+                </div>
+            </nav>
+        </figcaption>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-6">
+        <figure class="position-relative">
+            <img class="image-fluid image1" src="assets/img/g21.png">
+        </figure>
+        <figcaption style="top: 1rem;">
+            <p class="text1" style="font-size: 26px;">Optimize your IT Service Delivery with <a style="font-size: 36px;">ServiceFocusTM</a></p>
+            <p class="text2">ServiceFocus is a highly automated, scalable and collaborative ITSM tool that redefines IT service delivery. It is an intelligent solution that enables performance efficiencies and allows you to shift your focus from Ticketing to Resolution -- freeing up your valuable resources, and allowing you to worry less about IT.</p>
+        </figcaption>
+    </div>
+    <!-- <figcaption style="top: 2rem;"> -->
+        <div class="col-lg-6">
+            <img class="image-fluid image2" src="assets/img/a396.png">
+        </div>
+    <!-- </figcaption> -->
+</div>
 
+<div class="row justify-content-center"><div class="col-lg-12 text-center sfText">ServiceFocus Features</div></div>
+
+<div class="row text-center mr-0 justify-content-center">
+    <div class="card-block col-lg-3 card1 m-2 p-3">
+      <img class="card-img-top" src="group136.png" alt="Card image cap">
+      <div class="card-body">
+        <p class="card-image"><img src="assets/img/.png"></p>  
+        <h5 class="card-title">Flexible Licensing</h5>
+        <p class="card-text">with unlimited end-user support</p>
+      </div>
+    </div>
+    <div class="card-block col-lg-3 card1 m-2">
+      <div class="card-body">
+        <p class="card-image"><img src="assets/img/.png"></p>  
+        <h5 class="card-title">Safe and Secure Access</h5>
+        <p class="card-text">with Multi-Factor Authentication Single Sign-On feature</p>
+      </div>
+    </div>
+   
+    <div class="card-block col-lg-3 col-sm-2 card1 m-2">
+      <div class="card-body">
+        <p class="card-image"><img src="assets/img/.png"></p>  
+        <h5 class="card-title">Real-time Monitoring</h5>
+        <p class="card-text">24x7</p>
+      </div>
+    </div>
+    <!-- <div style="margin-left: 500px;">
+      <img src="g19.jpg" >
+    </div> -->
+    <div class="card-block col-lg-3 card1 m-2">
+      <div class="card-body">
+        <p class="card-image"><img src="assets/img/.png"></p>  
+        <h5 class="card-title">Customizable</h5>
+        <p class="card-text">with a dynamic templates containing attributes and rules to fit your needs</p>
+      </div>
+    </div>
+    <div class="card-block col-lg-3 card1 m-2">
+      <div class="card-body">
+        <p class="card-image"><img src="assets/img/.png"></p>  
+        <h5 class="card-title">Ticket Creation</h5>
+        <p class="card-text">Trends and Escalations</p>
+      </div>
+    </div>
+    <div class="card-block col-lg-3 card1 m-2">
+      <div class="card-body">
+        <p class="card-image"><img src="assets/img/.png"></p>  
+        <h5 class="card-title">Conversational Bots</h5>
+        <p class="card-text">that offer resolutions</p>
+      </div>
+    </div>
+    <div class="card-block col-lg-3 col-sm-2 card1 m-2">
+      <div class="card-body">
+        <p class="card-image"><img src="assets/img/.png"></p>  
+        <h5 class="card-title">Real-Time Metric Dashboards</h5>
+        <p class="card-text">with Live Presence, Live Chat, Kanban Boards, Posts, and Discussion Threads</p>
+      </div>
+    </div>
+    <div class="card-block col-lg-3 card1 m-2">
+      <div class="card-body">
+        <p class="card-image"><img src="assets/img/.png"></p>
+        <h5 class="card-title">Collaborate</h5>
+        <p class="card-text">with Live Presence, Live Chat, Kanban Boards, Posts, and Discussion Threads</p>
+      </div>
+    </div>
+    <div class="card-block col-lg-3 card1 m-2">
+      <div class="card-body">
+        <p class="card-image"><img src="assets/img/.png"></p>
+        <h5 class="card-title">Forecast Call Volumes and Predict Workforce</h5>
+        <p class="card-text">that offer resolutions</p>
+      </div>
+    </div>
+    <div class="card col-lg-3 card5 border-0 m-2">
+      <div class="card-body">
+        <p class="card-image"><img src="assets/img/.png"></p>
+        <button class="btn btn-outline bttn1" type="submit">See more</button>
+      </div>
+    </div>
+</div>
+
+</div>
+
+
+
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.navText
+{
+    font-size: 16px;
+    background: transparent;
+    width: 76px;
+    height: 19px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #0F2976;
+    opacity: 1;
+}
+
+.logo
+{
+    margin-left: 75px;
+    margin-top: 38px;
+    width: 283px;
+    height: 85px;
+    opacity: 1;
+}
+
+.btn1
+{
+    // margin-top: 38px;
+    font-family: 'Montserrat', sans-serif;
+    width: 130px;
+    height: 40px;
+    background: #484CE6 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.getText
+{
+    font-size: 16px;
+    width: 94px;
+    height: 19px;
+    // align-content: center;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.bgImage
+{
+    width: 623px;
+    height: 532px;
+    opacity: 1;
+}
+
+figcaption
+{
+    position: absolute;
+    // top:2rem;
+}
+
+.row
+{
+    // width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.pn
+{
+    background: transparent;
+    margin-left: 640px;
+    width: 623px;
+    height: 532px;
+    opacity: 1;
+}
+.capt
+{
+    margin-left: 80px;
+}
+.text1
+{
+    font-family: 'Montserrat', sans-serif;;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 205px;
+    width: 438px;
+    height: 78px;
+    text-align: left;
+    color: #261D56;
+    opacity: 1;
+}
+.text2
+{
+    margin-top: 20px;
+    margin-left: 205px;
+    width: 397px;
+    height: 199px;
+    letter-spacing: 0px;
+    color: #4D4D4D;
+    opacity: 1;
+}
+.image2
+{
+    width: 623px;
+    height: 532px;
+    background: transparent;
+    opacity: 1;
+}
+.sfText
+{
+    font-weight: bold;
+    font-size: 36px;
+    width: 412px;
+    height: 44px;
+    color: #261D56;
+    opacity: 1;
+}
+
+.card1
+{
+    top: 100px;
+    // margin-left: 50px;
+    width: 300px;
+    height: 300px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 10px #0031FF26;
+    border-radius: 20px;
+    opacity: 1;
+}
+// .container
+// {
+//     margin: 0px;
+//     padding: 0px;
+// }
