@@ -1,1 +1,1033 @@
+<div class="container-fluid">
+<div class="row">
+    <div class="col-lg-3 logo">
+        <img src="g19.jpg" class="image-fluid">
+    </div>
+    <div class="col-lg-7">
+        <nav class="navbar navbar-expand-lg navbar-light caption">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">                
+                <span class="navbar-toggler-icon"></span>
+              </button>
+                <div class="collapse navbar-collapse caption" style="background:transparent;" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto navText">
+                        <li class="nav-item active p-4">
+                            <a class="nav-link some" href="#">Solutions</a>
+                        </li>
+                        <li class="nav-item active p-4">
+                            <a class="nav-link some" href="#">Services</a>
+                        </li>
+                        <li class="nav-item active p-4">
+                            <a class="nav-link some" href="#">Prices</a>
+                        </li>
+                        <li class="nav-item active p-4">
+                            <a class="nav-link some" href="#">Resources</a>
+                        </li>
+                        <li class="nav-item active p-4">
+                            <a class="nav-link some" href="#">Contact</a>
+                        </li>
+                        <li class="nav-item active p-4">
+                          <button class="btn btn-outline" type="submit">Get Started</button>
+                        </li>
+                    </ul>
+            </div>
+        </nav>
+      </div>
+</div>
+<div class="row">
+    <div class="col-lg-7">
+        <figure class="position-relative">
+            <img class="image1 image-fluid" src="group21.jpg">
+        </figure>
+        <figcaption>
+            <p class="text1" style="font-size: 26px;">Optimize your IT Service Delivery with <a style="font-size: 36px;">ServiceFocusTM</a></p>
+            <p class="text2">ServiceFocus is a highly automated, scalable and collaborative ITSM tool that redefines IT service delivery. It is an intelligent solution that enables performance efficiencies and allows you to shift your focus from Ticketing to Resolution -- freeing up your valuable resources, and allowing you to worry less about IT.</p>
+        </figcaption>
+        </div>
+    <div class="card border-0 col-lg-5">
+        <div class="card-image-overlay">
+            <img class="cardImage2" src="asset396.jpg">
+        </div>
+    </div>
+</div>
 
+
+<div class="row mr-0 justify-content-center"><div class="col-lg-12 text-center sfText">ServiceFocus Features</div></div>
+
+<div class="container-fluid contain">
+<div class="row text-center mr-0 justify-content-center">
+      <div class="card-block col-lg-3 card1 m-2 p-3">
+        <img class="card-img-top" src="group136.png" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Flexible Licensing</h5>
+          <p class="card-text">with unlimited end-user support</p>
+        </div>
+      </div>
+      <div class="card-block col-lg-3 card1 m-2">
+        <div class="card-body">
+          <h5 class="card-title">Safe and Secure Access</h5>
+          <p class="card-text">with Multi-Factor Authentication Single Sign-On feature</p>
+        </div>
+      </div>
+     
+      <div class="card-block col-lg-3 col-sm-2 card1 m-2">
+        <div class="card-body">
+          <h5 class="card-title">Real-time Monitoring</h5>
+          <p class="card-text">24x7</p>
+        </div>
+      </div>
+      <!-- <div style="margin-left: 500px;">
+        <img src="g19.jpg" >
+      </div> -->
+      <div class="card-block col-lg-3 card1 m-2">
+        <div class="card-body">
+          <h5 class="card-title">Customizable</h5>
+          <p class="card-text">with a dynamic templates containing attributes and rules to fit your needs</p>
+        </div>
+      </div>
+      <div class="card-block col-lg-3 card1 m-2">
+        <div class="card-body">
+          <h5 class="card-title">Ticket Creation</h5>
+          <p class="card-text">Trends and Escalations</p>
+        </div>
+      </div>
+      <div class="card-block col-lg-3 card1 m-2">
+        <div class="card-body">
+          <h5 class="card-title">Conversational Bots</h5>
+          <p class="card-text">that offer resolutions</p>
+        </div>
+      </div>
+      <div class="card-block col-lg-3 col-sm-2 card1 m-2">
+        <div class="card-body">
+          <h5 class="card-title">Real-Time Metric Dashboards</h5>
+          <p class="card-text">with Live Presence, Live Chat, Kanban Boards, Posts, and Discussion Threads</p>
+        </div>
+      </div>
+      <div class="card-block col-lg-3 card1 m-2">
+        <div class="card-body">
+          <h5 class="card-title">Collaborate</h5>
+          <p class="card-text">with Live Presence, Live Chat, Kanban Boards, Posts, and Discussion Threads</p>
+        </div>
+      </div>
+      <div class="card-block col-lg-3 card1 m-2">
+        <div class="card-body">
+          <h5 class="card-title">Forecast Call Volumes and Predict Workforce</h5>
+          <p class="card-text">that offer resolutions</p>
+        </div>
+      </div>
+      <div class="card col-lg-3 card5 border-0 m-2">
+        <div class="card-body">
+          <button class="btn btn-outline bttn1" type="submit">See more</button>
+        </div>
+      </div>
+      </div>
+</div>
+<!-- <div class="container-fluid">
+  <div class="row justify-content-center">
+    <div class="col-lg-12 text-center sfText">
+      ServiceFocus Features
+    </div>
+  </div>
+</div> -->
+<!-- <div class="col-lg-12 justify-content-center"><button class="btn btn-outline bttn" type="button">See more</button></div>
+<div class="row mr-0"><div class="col-lg-11 mText">Modules</div></div>
+ <p class="col-lg-3">Modules</p> -->
+  <div class="container-fluid cont">
+    <div class="row mr-0"><div class="col-lg-12 mText">Modules</div></div>
+      <div class="row justify-content-center">
+          <div class="card-block col-lg-3 card3 border-0 m-2">
+            <div class="card-body">
+              <!-- <h5 class="card-title">Special title treatment</h5> -->
+              <p class="card-text cardText3">Incident Management Includes the capability to identify, record, categorize, and prioritize incidents, leading to improved service efficiency and productivity.</p>
+            </div>
+          </div>
+          <div class="card-block col-lg-3 card3 border-0 m-2">
+            <div class="card-body">
+              <p class="card-text cardText3">Change Management Robust tools efficiently help your change team collaborate and manage change processes in order to minimize risks and service disruptions.</p>
+            </div>
+          </div>
+        
+          <div class="card-block col-lg-3 card3 border-0 m-2">
+            <div class="card-body">
+              <p class="card-text cardText3">Knowledge Management Includes a powerful AI-based search That is integrated with conversational intelligence to understand the intent and auto-suggest the right KB article that will help agents and users to resolve issues quicker</p>
+            </div>
+          </div>
+          <div class="card-block col-lg-3 card3 border-0 m-2">
+            <div class="card-body">
+              <p class="card-text cardText3">Problem Management Helps to identify the root cause, prevent recurrence and determine a permanent fix, thereby increasing productivity, and improving service quality and customer experience.</p>
+            </div>
+          </div>
+          <div class="card-block col-lg-3 card3 border-0 m-2">
+            <div class="card-body">
+              <p class="card-text cardText3">Self Service Portal Leverages a powerful form builder tool and workflow engine that can be utilized to design forms and publish them quickly.</p>
+            </div>
+          </div>
+          <div class="card-block col-lg-3 card3 border-0 m-2">
+            <div class="card-body">
+              <p class="card-text cardText3">Self Service Portal Leverages a powerful form builder tool and workflow engine that can be utilized to design forms and publish them quickly.</p>
+            </div>
+          </div>
+          <div class="card-block col-lg-3 card3 border-0 m-2">
+            <div class="card-body">
+              <button class="btn btn-outline bttn2" type="submit">See more Modules</button>
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row mr-0">
+        <div class="col-lg-6">
+          <figure><img class="gimage1" src="group66.jpg"></figure>
+          <figcaption>
+          <img class="mbl" src="asset397.jpg">
+        </figcaption>
+        </div>
+        <div class="col-lg-6">
+          <figure>
+          <img class="rope" src="group58.jpg">
+        </figure>
+        <figcaption style="margin-top: 12rem;">
+          <div  class="safeText"><p>Safe and Secure</p></div>
+        </figcaption>  
+          <p class="solText">Solution utilizes Multi-Factor Authentication AD and Social Media Authentication Single Sign-On features.</p>
+          <button class="btn btn-outline bttn3" type="submit">Learn more</button>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row mr-0">
+        <div class="col-lg-6">
+          <img src="eclipse172">
+          <p class="reText">Reimagine Self-Service with Intelligent Knowledge Base</p>
+
+          <p class="powerText">A powerful AI-based search which is integrated with conversational intelligence that reimagines self-service. Intelligent knowledge base that goes beyond traditional approach which empowers users to find the answers they need.</p>
+          <button class="btn btn-outline bttn4" type="submit">Learn more</button>
+          <!-- <figcaption>
+          <img class="mbl" src="asset397.jpg">
+        </figcaption> -->
+        </div>
+        <div class="col-lg-6">
+          <figure>
+          <img class="" src="path73.jpg">
+        </figure>
+        <figcaption>
+          <img class="" src="g213.png">
+        </figcaption>  
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row mr-0">
+        <div class="col-lg-6">
+          <figure>
+            <img class="gimage1" src="group66.jpg">
+          </figure>
+          <figcaption>
+            <img class="" src="g83.png">
+          </figcaption>
+        </div>
+        <div class="col-lg-6">
+          <p class="autoText">Automate Repetitive Tasks</p>
+          <p class="serveText">ServiceFocus is an intelligent solution that understands end user intent, routes tickets, and aids in ticket resolution. Ticket creation is done via email, with templated responses. Automated Event Monitoring is utilized for SLA tracking, Missed FLR, and High Ticket Tracking situations.</p>
+          <button class="btn btn-outline bttn5" type="submit">Learn more</button>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row mr-0">
+        <div class="col-lg-6">
+          <p class="makeText">Make Better Decisions based on Data</p>
+          <p class="sText">ServiceFocus provides real-time Metric Dashboards where call, QA, ticketing, and performance metrics can be viewed. Call volumes can also be forecasted, and workforce can be predicted. Collaborations can take place via Live Presence, Live Chat, Kanban Boards, posts, and discussion threads.</p>
+          <button class="btn btn-outline bttn6" type="submit">Learn more</button>
+        </div>
+        <div class="col-lg-6">
+          <figure>
+            <img class="" src="group66.jpg">
+          </figure>
+          <figcaption>
+            <img class="" src="g83.png">
+          </figcaption>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row mr-0 coment">
+        <div class="col-lg-7">
+          <p class="dText">Do you have unique IT needs?</p>
+          <p class="serviceText">ServiceFocus is designed to fit your needs. Reflect your brand identity with customizable templates.</p>
+          <button class="btn btn-outline bttn7" type="submit">Learn more</button>
+        </div>
+        <div class="col-lg-5">
+          <img src="g87.png">
+        </div>
+      </div>
+    </div>
+
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active bg-dark"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1" class="active bg-dark"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2" class="active bg-dark"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="row mr-0 justify-content-center"><div class="col-lg-12 text-center sTitle">What Our Clients Say About ServiceFocus</div></div>
+          <div class="row">
+            <div class="col-lg-6">
+              <img src="g19.jpg" class="d-block w-50 sImage" alt="...">
+            </div>
+            <div class="col-lg-6 sDetail">
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="row mr-0 justify-content-center"><div class="col-lg-12 text-center sTitle">What Our Clients Say About ServiceFocus</div></div>
+          <div class="row">
+            <div class="col-lg-6">
+              <img src="g19.jpg" class="d-block w-50 sImage" alt="...">
+            </div>
+            <div class="col-lg-4 sDetail">
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="row mr-0 justify-content-center"><div class="col-lg-12 text-center sTitle">What Our Clients Say About ServiceFocus</div></div>
+          <div class="row">
+            <div class="col-lg-6">
+              <img src="g19.jpg" class="d-block w-50 sImage" alt="...">
+            </div>
+            <div class="col-lg-6 sDetail justify-content-center">
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon bg-dark" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon bg-dark" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="container-fluid jd border border-grey">
+    <div class="row mr-0">
+      <div class="col-lg-4">
+        <img  class="downImage" src="g19.jpg">
+      </div>
+      <div class="col-lg-4 downCol">
+        <P class="downText"></P>
+      </div>
+      <div class="col-lg-4">
+        <p class="stTxt">Stay in touch</p>
+        <div class="input-group mb-2">
+          <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2">
+          <div class="input-group-append">
+            <span class="input-group-text" id="basic-addon2">@example.com</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row mr-0 border border-grey">
+      <div class="col-lg-2">
+        <p class="to">Solutions</p>
+        <p class="is1">
+        IT Service Management 
+        IT Asset Management 
+        Configuration Management 
+        Reporting and Analytics 
+        IT Incident Management
+      </p>
+      </div>
+      <div class="a"></div>
+      <div class="col-lg-2">
+        <p class="to"></p> 
+        <p class="is2">
+        IT Change Management
+        Chatbots & Virtual Assistants 
+        Conversational Intelligence 
+        IVR Automation 
+        U Channel Service
+      </p>
+      </div>
+      <div class="col-lg-2">
+        <p class="to">Services</p>
+        <p class="is3">
+        EPIC 
+        Cerner 
+        Service Desk 
+        IT Performance 
+        Monitoring IT Outsourcing
+        </p>
+      </div>
+      <div class="col-lg-2">
+        <p class="to">Resources</p>
+        <p class="is4">
+        Case Studies 
+        Whitepaper 
+        eBook 
+        Videos 
+        Demos
+        </p>
+      </div>
+      <div class="col-lg-2">
+        Resources
+      </div>
+    </div>
+  </div>
+  
+  
+  
+  
+  .no 
+{
+    // display: inline-block;
+    background-image:url("/src/img/g19.jpg")   center ;
+    top: 38px;
+    left: 75px;
+    width: 100px;
+    height: 100px;
+}
+
+.navText
+{
+    font-family: 'Montserrat';
+    font-size: 16px;
+    margin-top: 24px;
+    color: #0F2976;
+}
+
+.logo
+{
+    margin-top: 38px;
+    margin-left: 75px;
+    width: 283px;
+    height: 85px;
+    opacity: 1;
+}
+.bttn
+{
+    margin-top: 24px;
+    width: 130px;
+    height: 40px;
+    background: #484CE6 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+    opacity: 1;
+}
+.image1
+{
+    // margin-top: 136px;
+    margin-left: 0.44600000977516174px;
+    // width: 352px;
+    // height: 255px;
+    opacity: 1;
+}
+.text1
+{
+    font-family: 'Montserrat', sans-serif;;
+    font-weight: bold;
+    margin-top: 200px;
+    margin-left: 205px;
+    width: 438px;
+    height: 78px;
+    text-align: left;
+    color: #261D56;
+    opacity: 1;
+}
+.text2
+{
+    margin-top: 20px;
+    margin-left: 205px;
+    width: 397px;
+    height: 199px;
+    letter-spacing: 0px;
+    color: #4D4D4D;
+    opacity: 1;
+}
+.container
+{
+    background: url(/src/img/asset396.jpg);
+    margin-left: 709px;
+    width: 657px;
+    height: 1000px;
+    opacity: 1;
+}
+.cardImage1
+{
+    margin-left: 709px;
+    width: 657px;
+    height: 599px;
+    // background: transparent;
+    opacity: 1;
+}
+.cardImage2
+{
+    margin-top: 142px;
+    // margin-left: 652px;
+    width: 623px;
+    height: 532px;
+    background: transparent;
+    opacity: 1;
+}
+.sfText
+{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 36px;
+    width: 412px;
+    height: 44px;
+    color: #261D56;
+    opacity: 1;
+}
+.iconic
+{
+    background: url("/group36.jpg") 0% 0% no-repeat padding-box;
+    width: 100px;
+    height: 100px;
+}
+.card1
+{
+    top: 100px;
+    // margin-left: 50px;
+    width: 300px;
+    height: 300px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 10px #0031FF26;
+    border-radius: 20px;
+    opacity: 1;
+}
+.card5
+{
+    top: 100px;
+    width: 300px;
+    height: 300px;
+}
+.cardText1
+{
+    top: 929px;
+    left: 263px;
+    width: 180px;
+    height: 24px;
+    /* UI Properties */
+    text-align: center;
+    letter-spacing: 0px;
+    color: #261D56;
+    opacity: 1;
+    font-size: 20px;
+}
+.cardText2
+{
+    top: 965px;
+    left: 273px;
+    width: 160px;
+    height: 44px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #261D56;
+    opacity: 1;
+    font-size: 18px;
+}
+.contain
+{
+    // margin-left: 6px;
+    // padding-left: 150px;
+    width:900px;
+    height:850px;
+}
+figcaption
+{
+    position: absolute;
+    top: 5rem;
+}
+
+.image3
+{
+    background-image: url("/src/img/G660.jpg") center;
+    width: 623px;
+    height: 532px;
+    background: transparent;
+    opacity: 1;
+    opacity: 1;
+}
+.mText
+{
+    // top: 50px;
+    margin-left: 350px;
+    width: 130px;
+    height: 37px;
+    font-size: 30px;
+    // text-align: center;
+    letter-spacing: 0px;
+    color: #261D56;
+    opacity : 1;
+}
+.contains
+{
+    width:800px;
+    // height:400px;
+}
+.card2
+{
+    width: 200px;
+    height: 200px;
+}
+
+.card3
+{
+    // width: 229px;
+    height: 200px;
+    font-size: 13px;
+    font-family: 'Montserrat';
+}
+.cardText3
+{
+    width: 190px;
+    height: 19px;
+}
+.cont
+{
+    margin-top: 350px;
+    width: 800px;
+    height: 550px;
+}
+.bttn1
+{
+    // margin-top: 24px;
+    width: 130px;
+    height: 40px;
+    background: #484CE6 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+    opacity: 1;
+}
+.bttn2
+{
+    width: 140px;
+    height: 40px;
+    background: #484CE6 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+    opacity: 1;
+}
+.mbl
+{
+    background: transparent;
+    margin-top: 200px;
+    margin-left: 30px;
+    width: 450px;
+    height: 574px;
+    opacity: 1;
+}
+.rope
+{
+    margin-left: 50px;
+    width: 367px;
+    height: 331px;
+    opacity: 1;
+}
+.safeText
+{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 30px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #261D56;
+    opacity: 1;
+}
+.solText
+{
+    font-size: 18px;
+    font-family: 'Monserrat';
+    font-weight: lighter;
+    width: 483px;
+    height: 48px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #4D4D4D;
+    opacity: 1;
+}
+.reText
+{
+    margin-left: 50px;
+    font-size: 30px;
+    font-family: 'Monserrat';
+    font-weight: bold;
+    width: 432px;
+    height: 77px;
+    text-align: left;
+    color: #261D56;
+    opacity: 1;
+}
+.bttn3
+{
+    margin-top: 50px;
+    width: 140px;
+    height: 40px;
+    background: #484CE6 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+    opacity: 1;
+}
+.walkImage
+{
+    width: 842px;
+    height: 387px;
+    opacity: 1;
+}
+.imagine
+{
+    width: 842px;
+    height: 387px;
+    opacity: 1;
+}
+.powerText
+{
+    margin-left: 45px;
+    font-size: 18px;
+    font-family: 'Monserrat';
+    font-weight: lighter;
+    width: 447px;
+    height: 146px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #4D4D4D;
+    opacity: 1;
+}
+.bttn4
+{
+    margin-left: 45px;
+    margin-top: 20px;
+    width: 140px;
+    height: 40px;
+    background: #484CE6 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+    opacity: 1;
+}
+.autoText
+{
+    margin-top: 250px;
+    font-size: 30px;
+    font-family:'Montserrat' ;
+    font-weight: bold;
+    width: 410px;
+    height: 37px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #261D56;
+    opacity: 1;
+}
+.serveText
+{
+    font-size: 18px;
+    font-family:'Montserrat' ;
+    font-weight: lighter;
+    width: 533px;
+    height: 183px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #4D4D4D;
+    opacity: 1;
+}
+.gimage1
+{
+    width: 859px;
+    height: 981px;
+    opacity: 1;
+}
+.bttn5
+{
+    margin-left: 3px;
+    // margin-top: 10px;
+    width: 140px;
+    height: 40px;
+    background: #484CE6 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+    opacity: 1;
+}
+.makeText
+{
+    margin-top: 250px;
+    margin-left: 50px;
+    font-size: 30px;
+    font-family:'Montserrat' ;
+    font-weight: bold;
+    width: 449px;
+    height: 77px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #261D56;
+    opacity: 1;
+}
+.sText
+{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 18px;
+    font-family:'Montserrat' ;
+    font-weight: lighter;
+    width: 400px;
+    height: 211px;
+    text-align: left;
+    color: #4D4D4D;
+    opacity: 1;
+}
+.bttn6
+{
+    margin-left: 45px;
+    width: 140px;
+    height: 40px;
+    background: #484CE6 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+    opacity: 1;
+}
+.bttn7
+{
+    margin-top: 30px;
+    margin-left: 180px;
+    width: 150px;
+    height: 50px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+}
+.wrapper
+{
+    border-radius: 10px;
+}
+.coment
+{
+    width: 1366px;
+    height: 250px;
+    background: #484CE6 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.dText
+{
+    margin-top: 20px;
+    margin-left: 155px;
+    font-size: 30px;
+    font-family:'Montserrat' ;
+    font-weight: bold;
+    width: 452px;
+    height: 37px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #F8F9FD;
+    opacity: 1;
+}
+.serviceText
+{
+    margin-left: 180px;
+    font-size: 18px;
+    font-family:'Montserrat' ;
+    font-weight: lighter;
+    width: 567px;
+    height: 48px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.sTitle
+{
+    margin-top: 50px;
+    font-size: 30px;
+    font-family:'Montserrat' ;
+    font-weight: bold;
+    width: 633px;
+    height: 37px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #261D56;
+    opacity: 1;
+}
+.sDetail
+{
+    margin-top: 100px;
+    font-size: 16px;
+    font-family:'Montserrat' ;
+    font-weight: normal;
+    width: 431px;
+    height: 140px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #8585AF;
+    opacity: 1;
+}
+.sImage
+{
+    width: 193px;
+    height: 193px;
+    opacity: 1;
+}
+.comment
+{
+    border-color: grey;
+    border: 10px;
+    border-style: bold;
+}
+.jd
+{
+    width: 1366px;
+    height: 450px;
+}
+.bord
+{
+    border-right: gray;
+}
+.downImage
+{
+    margin-top: 50px;
+    width: 283px;
+    height: 85px;
+    opacity: 1;
+}
+.downText
+{
+    margin-top: 50px;
+    width: 318px;
+    height: 78px;
+    text-align: left;
+    letter-spacing: NaNpx;
+    opacity: 1;
+}
+.sText
+{
+    font-size: 20px;
+    font-family: 'Monserrat';
+    font-weight: bold;
+}
+.downCol
+{
+    width: 70px;
+    height: 24px;
+}
+.downTxt1
+{
+    font-size: 16px;
+    font-family: 'Monserrat';
+    font-weight: normal;
+    width: 187px;
+    height: 24px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #000000;
+}
+.btn1
+{
+    width: 100px;
+    height: 60px;
+    background: #484CE6 0% 0% no-repeat padding-box;
+    border-radius: 0px 8px 8px 0px;
+    opacity: 1;
+}
+.txtBox
+{
+    width: 300px;
+    height: 60px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #8585AF;
+    border-radius: 8px;
+    opacity: 1;
+}
+.stTxt
+{
+    margin-top: 50px;
+    font-size: 18px;
+    font-family: 'Monserrat';
+    font-weight: normal;
+    width: 119px;
+    height: 22px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #8585AF;
+    opacity: 1;
+}
+.to
+{
+    font-size: 20px;
+    font-family: 'Monserrat';
+    font-weight: bold;
+    width: 95px;
+    height: 24px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #261D56;
+    opacity: 1;
+}
+.is1
+{
+    font-size: 14px;
+    font-family: 'Monserrat';
+    font-weight: normal;
+    margin-top: 30px;
+    width: 196px;
+    height: 152px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.is2
+{
+    font-size: 14px;
+    font-family: 'Monserrat';
+    font-weight: normal;
+    margin-top: 30px;
+    width: 203px;
+    height: 125px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.is3
+{
+    font-size: 14px;
+    font-family: 'Monserrat';
+    font-weight: normal;
+    margin-top: 30px;
+    width: 191px;
+    height: 125px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.is4
+{
+    font-size: 14px;
+    font-family: 'Monserrat';
+    font-weight: normal;
+    margin-top: 30px;
+    width: 91px;
+    height: 125px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.row
+{
+    margin:0px;
+    padding: 0px;
+}
+// .a
+// {
+//     height: ;
+// }
+// input,
+// button {
+//     float: left;
+// }
